@@ -6,3 +6,4 @@ RENCANA MY KONTEN
   * istirahat mata
 
 - self recovery
+  * minum madu
