@@ -2,7 +2,7 @@ RENCANA MY KONTEN
 
 - kurangin minus
   * latihan mata
-  * kurangin main game
+  * main game nya jangan lama-lama
   * istirahat mata
 
 - self recovery
@@ -19,3 +19,4 @@ RENCANA MY KONTEN
 - PHP Frameworks
   ^ Laravel
 - Interview
+
