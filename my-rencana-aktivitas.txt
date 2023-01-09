@@ -2,9 +2,21 @@ RENCANA MY KONTEN
 
 - kurangin minus
   * latihan mata
-  * tambahin main game
+  * main game nya jangan lama-lama
   * istirahat mata
 
 - self recovery
   * minum madu
   * air putih cukup
+  
+- Javascript
+  * ES6
+  * Framework Javascript
+    ^ Vue
+    ^ React
+
+- Struktur Data Dasar
+- PHP Frameworks
+  ^ Laravel
+- Interview
+
